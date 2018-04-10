@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58b4c98f-c2c5-489d-a624-c2674152a131" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Framework.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/core/Framework.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+              <folding>
+                <element signature="n#init#0;n#Framework#0;n#!!top" expanded="false" />
+                <element signature="n#autoload#0;n#Framework#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/home/IndexController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/core/Controller.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="925">
+              <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Loader.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/core/Loader.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mysql.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/framework/database/Mysql.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/core/Model.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="41" />
+              <folding>
+                <marker date="1523271679753" expanded="true" signature="2050:2115" ph="INSERT INTO `${{$this-&gt;table}}`... " />
+                <marker date="1523271679753" expanded="true" signature="3316:3360" ph="UPDATE `${{$... " />
+                <marker date="1523271679753" expanded="true" signature="4516:4551" ph="DELETE FROM " />
+                <marker date="1523271679753" expanded="true" signature="5216:5277" ph="select * fro... ${{$this-&gt;table}}" />
+                <marker date="1523271679753" expanded="true" signature="5441:5462" ph="select count... $" />
+                <marker date="1523271679753" expanded="true" signature="5846:5890" ph="select * fro... $" />
+                <marker date="1523271679753" expanded="true" signature="5938:5996" ph="select * fro... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserModel.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/UserModel.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+              <folding>
+                <marker date="1523323237749" expanded="true" signature="295:309" ph="select * fro... ${$this-&gt;table}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/home/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="e#6#86#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class</find>
+      <find>loadClass</find>
+      <find>$controllerName</find>
+      <find>load</find>
+      <find>CURR_CONTROLLER_PATH</find>
+      <find>PLATFORM</find>
+      <find>mysql_connect</find>
+      <find>mysql</find>
+      <find>user</find>
+      <find>$table</find>
+      <find>BaseController</find>
+      <find>CONTROLLER</find>
+      <find>$fields</find>
+      <find>mysqli_q</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\myproject\myframe-domo</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../myframe-domo/frame/Controller.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/frame/Model.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/frame/Sql.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/frame/View.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/info.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/application/controller/index.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/frame/Frame.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/config/config.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/frame/Core.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/.htaccess" />
+        <option value="$PROJECT_DIR$/../myframe-domo/framework/core/Controller.class.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/framework/core/Loader.class.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/framework/core/Model.class.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/application/model/UserModel.class.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/application/controllers/IndexController.class.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/framework/database/Mysql.class.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/application/config/config.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/application/view/home/index.html" />
+        <option value="$PROJECT_DIR$/../myframe-domo/application/views/home/index.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/index.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/framework/core/Framework.class.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/application/controllers/home/IndexController.class.php" />
+        <option value="$PROJECT_DIR$/../myframe-domo/application/models/UserModel.class.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9004" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="b66380f1-5795-4096-a84b-178d250ecb9e" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-16" />
+    <option name="y" value="49" />
+    <option name="width" value="1938" />
+    <option name="height" value="1016" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myframework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myframework" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wenan" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="D:/tools/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\tools\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myproject\myframe-domo\application\view" />
+      <recent name="D:\myproject\myframe-domo\application" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myproject\myframe-domo\application\controllers\home" />
+      <recent name="D:\myproject\myframe-domo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.localhost">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="localhost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="localhost" start_url="/myframe-domo/">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.localhost" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58b4c98f-c2c5-489d-a624-c2674152a131" name="Default" comment="" />
+      <created>1523257313369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523257313369</updated>
+      <workItem from="1523257314889" duration="18264000" />
+      <workItem from="1523324207999" duration="296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18560000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="49" width="1938" height="1016" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25375536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/framework/core/Model.class.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/framework/core/Model.class.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/home/IndexController.class.php</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/framework/core/Framework.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="n#init#0;n#Framework#0;n#!!top" expanded="false" />
+            <element signature="n#autoload#0;n#Framework#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/home/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Controller.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Loader.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/database/Mysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="41" />
+          <folding>
+            <marker date="1523271679753" expanded="true" signature="2050:2115" ph="INSERT INTO `${{$this-&gt;table}}`... " />
+            <marker date="1523271679753" expanded="true" signature="3316:3360" ph="UPDATE `${{$... " />
+            <marker date="1523271679753" expanded="true" signature="4516:4551" ph="DELETE FROM " />
+            <marker date="1523271679753" expanded="true" signature="5216:5277" ph="select * fro... ${{$this-&gt;table}}" />
+            <marker date="1523271679753" expanded="true" signature="5441:5462" ph="select count... $" />
+            <marker date="1523271679753" expanded="true" signature="5846:5890" ph="select * fro... $" />
+            <marker date="1523271679753" expanded="true" signature="5938:5996" ph="select * fro... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/UserModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <marker date="1523323237749" expanded="true" signature="295:309" ph="select * fro... ${$this-&gt;table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/framework/Model.php" />
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/framework/Sql.php" />
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/framework/View.php" />
+    <entry file="file://$PROJECT_DIR$/info.php" />
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/framework/Frame.php" />
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/framework/Core.php" />
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/framework/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/application/controllers/Index.php" />
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/application/controllers/frontend.php" />
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/application/controllers/backend.php" />
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/application/view/backend.php" />
+    <entry file="file://$PROJECT_DIR$/../myframe-domo/framework/core/Loder.class.php" />
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/UserModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <marker date="1523323237749" expanded="true" signature="295:309" ph="select * fro... ${$this-&gt;table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Framework.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="n#init#0;n#Framework#0;n#!!top" expanded="false" />
+            <element signature="n#autoload#0;n#Framework#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/home/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Controller.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Loader.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="41" />
+          <folding>
+            <marker date="1523271679753" expanded="true" signature="2050:2115" ph="INSERT INTO `${{$this-&gt;table}}`... " />
+            <marker date="1523271679753" expanded="true" signature="3316:3360" ph="UPDATE `${{$... " />
+            <marker date="1523271679753" expanded="true" signature="4516:4551" ph="DELETE FROM " />
+            <marker date="1523271679753" expanded="true" signature="5216:5277" ph="select * fro... ${{$this-&gt;table}}" />
+            <marker date="1523271679753" expanded="true" signature="5441:5462" ph="select count... $" />
+            <marker date="1523271679753" expanded="true" signature="5846:5890" ph="select * fro... $" />
+            <marker date="1523271679753" expanded="true" signature="5938:5996" ph="select * fro... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/database/Mysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt" />
+  </component>
+</project>
